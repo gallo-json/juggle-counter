@@ -1,5 +1,9 @@
 # Juggle Counter
 
+## Date
+
+May of 2020. Around the end of 9th grade school year.
+
 ## What problem does this solve?
 
 My brother is getting very good at juggling a soccer ball and he records himself to count how many he has done after finishing. As you progress, this number can be in the thousands. Counting this number of juggles by hand to see if you broke your PB is not that fun. Instead, this program counts the number of juggles for you. Automation.
