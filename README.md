@@ -10,6 +10,8 @@ My brother is getting very good at juggling a soccer ball and he records himself
 
 The user selects the ball in order to track it with colors (HSV). The program runs quickly over the video and keeps into acount the ball's Y coordination with relation to the video's frame. After that's done, the program counts the number of peaks in the ball's coordinates, and that number is the number of juggles.
 
+This programming just uses simple computer vision (color) to find and track the ball.
+
 ## Tech stack
 
 - Python 3
@@ -23,5 +25,7 @@ The user selects the ball in order to track it with colors (HSV). The program ru
 Go [here.](docs/Reflection.md)
 
 ## How to run
+
+OpenCV can either be compiled with CUDA or just CPU, works the same either way.
 
 `python3 src/counter_HSV.py path/to/juggling-soccer-ball-video.mov`
