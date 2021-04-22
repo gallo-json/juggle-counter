@@ -2,6 +2,8 @@
 
 ## Problems Encounterred
 
+I encountered some problems while trying to finish this project.
+
 ### Tracking the ball 
 
 ### Counting the peaks
