@@ -14,20 +14,19 @@ The graph used to count the peaks is determined by the x-axis (number of frames)
 
 ## What I liked
 
-I liked the fact that I actually solved a small problem with this project, and helped my brother out. And inputing various videos, it actually did pretty well one I fine tuned the threshold argument. Running the same video multiple times (a video of my brother doing ~2000 juggles), it was getting conistently a value 5 +/- the actual number of juggles.
+I liked the fact that I actually solved a small problem with this project, and helped my brother out. And inputing various videos, it actually did pretty well one I fine tuned the threshold argument. Running the same video multiple times (a video of my brother doing ~2000 juggles), it was getting conistently a value 5 +/- the actual number of juggles. I also learned a lot of OpenCV.
 
 ## Improvements
 
 ### Use Deep Learning to find/track the ball
 
-This improvement
-
-### Some other method to count the number of juggles
+This improvement is not too ambitious. I think I can use a YOLO model and train it on lots of images of soccer balls to detect the ball super accurately therefore reducing some of the number of fluctuations.
 
 ### Make it more accessible to general public
+
+I know lots of people that would like this project and help them, but right now the color selecting process is not intuitive (as well as running a python script from the terminal).
 
 ## What I learned
 
 - Python OpenCV
-- Manipulating videos all around
-- Little SciPy
+- Some SciPy
