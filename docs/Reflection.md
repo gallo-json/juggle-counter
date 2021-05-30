@@ -1,6 +1,6 @@
 # Reflection
 
-## Problems Encounterred
+## Problems I Faced
 
 I encountered some problems while trying to finish this project.
 
@@ -14,7 +14,7 @@ The graph used to count the peaks is determined by the x-axis (number of frames)
 
 ## What I liked
 
-I liked the fact that I actually solved a small problem with this project, and helped my brother out. And inputing various videos, it actually did pretty well one I fine tuned the threshold argument. Running the same video multiple times (a video of my brother doing ~2000 juggles), it was getting conistently a value 5 +/- the actual number of juggles. I also learned a lot of OpenCV.
+I liked the fact that I actually solved a small problem with this project, and helped my brother out. After inputing various videos, it actually did pretty well one I fine tuned the threshold argument. Running the same video multiple times (a video of my brother doing ~2000 juggles), it was getting conistently a value 5 +/- the actual number of juggles. I also learned a lot of OpenCV.
 
 ## Improvements
 
